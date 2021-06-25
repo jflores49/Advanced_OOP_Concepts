@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-25T01:49:00" hostname="LAPTOP-K86DNDNJ" time="0.14">
+  <properties/>
+  <testcase name="testJsonDoc" classname="Tests" time="0.069"/>
+  <testcase name="testJSONStructureInDB" classname="Tests" time="0.046"/>
+  <testcase name="testReadingFile" classname="Tests" time="0.01"/>
+  <testcase name="testOtherJSONViaDB" classname="Tests" time="0.006"/>
+  <testcase name="testComputingReviews" classname="Tests" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
