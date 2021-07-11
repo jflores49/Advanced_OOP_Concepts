@@ -18,7 +18,7 @@ files:
       ((ChildPatient)bart).setTemperature(101.2);
               maggie.setTemperature(100.1);
               lisa.setTemperature(100.6);
-  - offset: 712
+  - offset: 713
     length: 125
     placeholder_text: |-
       /* TODO */
@@ -35,7 +35,7 @@ files:
               homer.addJob("Major");
               homer.addJob("Bar Owner");
               marge.addJob("House Keeper");
-  - offset: 1053
+  - offset: 1054
     length: 294
     placeholder_text: |-
       /* TODO */
