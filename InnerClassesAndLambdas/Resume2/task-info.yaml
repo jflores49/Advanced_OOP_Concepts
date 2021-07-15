@@ -244,7 +244,7 @@ files:
       length: 80
       offset: 264
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: '    private List<Education> ed;'
   - offset: 345
@@ -256,7 +256,7 @@ files:
       length: 72
       offset: 345
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: '    private PriorityQueue<Experience> ex;'
   - offset: 447
