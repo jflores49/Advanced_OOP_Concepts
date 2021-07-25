@@ -56,7 +56,6 @@ Code the setPosition method. This should take one String and one double for the 
         pos.name = position;
         pos.salary  = salary;
         this.position = pos;
-//        this.position = new Position(position, salary);
     }
 
     /* TODO

@@ -250,7 +250,7 @@ files:
               }
           }
   - offset: 779
-    length: 604
+    length: 519
     placeholder_text: |-
       /* TODO */
       Create a public static inner class called Experience, according to the specifications.
@@ -274,7 +274,7 @@ files:
                   return fromYear+" - "+toYear+":"+title;
               }
           }
-  - offset: 1385
+  - offset: 1300
     length: 221
     placeholder_text: |-
       /* TODO */
@@ -289,7 +289,7 @@ files:
           private Person p;
           private List<Education> ed;
           private List<Experience> ex;
-  - offset: 1636
+  - offset: 1551
     length: 245
     placeholder_text: |-
       /* TODO */
@@ -304,7 +304,7 @@ files:
               this.p = p;
               ed = new ArrayList<>();
               ex = new ArrayList<>();
-  - offset: 1889
+  - offset: 1804
     length: 627
     placeholder_text: |-
       /* TODO */
@@ -362,5 +362,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 14 Jul 2021 08:22:30 UTC
+  time: Sun, 25 Jul 2021 15:49:08 UTC
 record: -1

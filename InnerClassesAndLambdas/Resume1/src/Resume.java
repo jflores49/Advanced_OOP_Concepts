@@ -37,14 +37,11 @@ Create a public static inner class called Experience, according to the specifica
     public static class Experience{
         String job;
         int startYear;
-//        int endYear;
-//        int fromYear;
         int toYear;
 
         public Experience(String job, int startYear, int endYear){
             this.job = job;
             this.startYear = startYear;
-//            this.endYear = endYear;
             this.toYear = endYear;
         }
 
